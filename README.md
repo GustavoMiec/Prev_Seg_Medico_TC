@@ -1,10 +1,11 @@
-## Integrantes
+## **Integrantes**
 
-- **Lucas Della Nina Panico - RM  364902
-- **Gustavo Costa - RM364910
-- **Altamiro Dourado Rodrigues - RM362489
-- **Claudio Marcio De Souza Oliveira - RM 363889
-- **Marcel N. Araujo Tsubota - RM361686
+- **Lucas Della Nina Panico - RM 364902**  
+- **Gustavo Costa - RM 364910**  
+- **Altamiro Dourado Rodrigues - RM 362489**  
+- **Claudio Marcio De Souza Oliveira - RM 363889**  
+- **Marcel N. Araujo Tsubota - RM 361686**
+
 
 ---
 
