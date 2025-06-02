@@ -1,3 +1,13 @@
+## Integrantes
+
+- **Lucas Della Nina Panico - RM  364902
+- **Gustavo Costa - RM364910
+- **Altamiro Dourado Rodrigues - RM362489
+- **Claudio Marcio De Souza Oliveira - RM 363889
+- **Marcel N. Araujo Tsubota - RM361686
+
+---
+
 # 💡 Previsão de Custos Médicos com Regressão e Interface Interativa
 
 Este projeto tem como objetivo prever os **custos médicos individuais** com base em informações demográficas, estilo de vida e plano de saúde. Ele combina **modelos de regressão (Linear, Ridge, Random Forest)** com uma **interface interativa no Jupyter Notebook**, permitindo simulações personalizadas.
